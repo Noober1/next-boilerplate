@@ -33,3 +33,10 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# cypress
+/cypress/fixtures
+/cypress/plugins
+/cypress/support
+/cypress/screenshots
+/cypress/videos
