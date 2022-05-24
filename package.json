@@ -9,6 +9,7 @@
     "lint": "next lint",
     "cypress": "cypress open",
     "cypress:headless": "cypress run",
+    "setup-sentry": "npx @sentry/wizard -i nextjs",
     "type-check": "tsc"
   },
   "dependencies": {
